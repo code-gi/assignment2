@@ -1,0 +1,19 @@
+table,th,td {
+    border:1px solid black;
+    border-collapse: collapse;
+    
+            }
+.paragraph-1{
+    color: aqua;
+            }
+            
+tr:nth-child(even) {
+    background-color: #d6eeef;
+                   }
+
+#paragraph-2{
+    color: blueviolet;
+            }
+
+    
+      
